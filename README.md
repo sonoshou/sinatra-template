@@ -13,5 +13,5 @@ bundle install --path vendor/bundle
 ## 起動
 
 ```
-bundle exec ruby app.rb -o 0.0.0.0 -p 8080
+bundle ezec rackup -o 0.0.0.0 -p 8080
 ```
